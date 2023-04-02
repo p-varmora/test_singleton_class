@@ -1,0 +1,1 @@
+# test_singleton_class
